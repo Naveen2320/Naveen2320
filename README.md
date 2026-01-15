@@ -8,6 +8,7 @@
 </p>
 
 
+
 ---
 
 ## 💡 *“Consistent problem solving today builds scalable systems tomorrow.” – George Eliot*
@@ -32,6 +33,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Naveen2320&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen2320&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
+## 🛠️ Fun Fact: I Love Fixing the “Why”
+- 🕵️‍♂️ Debugging feels like solving a mystery
+- 🔍 I enjoy tracing bugs back to their root cause
+- 🧹 Clean fixes > quick patches
+
+---
 
 ### 🌐 Connect with me:
 
